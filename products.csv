@@ -1,0 +1,31 @@
+product_id,product_name,category,unit_cost,unit_price
+P0001,Wireless Headphones,Electronics,20.44,29.13
+P0002,Bluetooth Speaker,Electronics,6.81,14.35
+P0003,Smart Watch,Electronics,60.97,110.27
+P0004,Laptop Stand,Electronics,118.88,171.06
+P0005,USB-C Hub,Electronics,78.86,140.9
+P0006,Mechanical Keyboard,Electronics,57.44,125.13
+P0007,Coffee Maker,Home & Kitchen,74.51,133.89
+P0008,Air Fryer,Home & Kitchen,25.68,48.4
+P0009,Cookware Set,Home & Kitchen,68.49,124.83
+P0010,Desk Lamp,Home & Kitchen,45.86,70.86
+P0011,Vacuum Cleaner,Home & Kitchen,74.53,145.84
+P0012,Storage Box,Home & Kitchen,102.38,163.66
+P0013,Notebook Pack,Office,62.7,111.69
+P0014,Office Chair,Office,67.81,117.67
+P0015,Monitor,Office,117.5,228.72
+P0016,Desk Organiser,Office,86.06,126.41
+P0017,Printer Ink,Office,60.38,125.29
+P0018,Webcam,Office,21.34,45.2
+P0019,Skincare Set,Beauty,118.11,281.44
+P0020,Haircare Set,Beauty,94.57,173.84
+P0021,Dental Care Set,Beauty,14.0,31.98
+P0022,Perfume,Beauty,15.17,28.0
+P0023,Body Lotion,Beauty,90.29,212.94
+P0024,Face Wash,Beauty,13.98,28.17
+P0025,Yoga Mat,Sports,96.78,162.41
+P0026,Running Shoes,Sports,11.07,18.94
+P0027,Fitness Tracker,Sports,94.53,174.15
+P0028,Water Bottle,Sports,63.96,117.86
+P0029,Resistance Bands,Sports,89.39,160.19
+P0030,Sports Bag,Sports,115.47,252.66
